@@ -6,4 +6,4 @@ Run `git clone https://github.com/aquietlife/flightsoffancy` and then `jupyter n
 
 The notebook has a lot of images so it won't load directly in Github.
 
-For more information, check out my (http://aquiet.life/software/flightsoffancy)[blog post] on this project.
+For more information, check out my [http://aquiet.life/software/flightsoffancy](blog post) on this project.
